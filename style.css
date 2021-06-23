@@ -4,13 +4,13 @@ body{
 .Head
 {
     color : #A239EA;
-    font-size: 3vw;
+    font-size: 45px;
     text-shadow: 1px 1px black;
 }
 .Head1
 {
     color : #A239EA;
-    font-size: 2vw;
+    font-size: 30px;
     text-shadow: 1px 1px black;
     visibility: hidden;
 }
@@ -22,7 +22,7 @@ body{
     padding-top: 13px;
     padding-bottom: 13px;
     width: 350px;
-    font-size: 1vw;
+    font-size: 20px;
     background-color: #FF94CC;
     color: #A239EA;
     border: 2px solid #A239EA;
@@ -39,7 +39,7 @@ body{
 }
 .list
 {
-    font-size: 1.5vw;
+    font-size: 25px;
     color: #A239EA;
     font-family: sans-serif;
     font-weight: bolder;
