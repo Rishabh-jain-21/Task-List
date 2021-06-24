@@ -1,10 +1,14 @@
+*
+{
+    text-align: center;
+}
 body{
     background-color: #F0D9E7; 
 }
 .Head
 {
     color : #A239EA;
-    font-size: 45px;
+    font-size: 259%;
     text-shadow: 1px 1px black;
 }
 .Head1
@@ -17,8 +21,6 @@ body{
 .textInput
 {
     position: relative;
-    margin-left: 39%;
-    padding-left: 17px;
     padding-top: 13px;
     padding-bottom: 13px;
     width: 350px;
@@ -27,15 +29,16 @@ body{
     color: #A239EA;
     border: 2px solid #A239EA;
     border-radius: 10px;
+    font-weight: bolder;
 }
 .sub
 {
     position: absolute;
-    margin-left: 47%;
     font-weight: bold;
     border-radius: 10px;
     padding: 9px 25px 9px 24px;
-    font-size: 1vw;
+    font-size: 15px;
+    margin-left: -44px;
 }
 .list
 {
